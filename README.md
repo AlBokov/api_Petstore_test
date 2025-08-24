@@ -2,4 +2,4 @@
 
 Для запуска проекта использовать комманду
 ```bash
-    pytest tests/test_petstore
+    pytest
