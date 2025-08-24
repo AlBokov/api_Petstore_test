@@ -1,0 +1,5 @@
+Проект предназначен для изучение библиотек python requests и pytest
+
+Для запуска проекта использовать комманду
+```bash
+    pytest tests/test_petstore
