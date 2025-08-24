@@ -1,0 +1,21 @@
+
+# Кеш и служебные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# PyTest
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Операционная система
+.DS_Store
+
+# Виртуальное окружение
+venv/
+.venv/
